@@ -37,6 +37,7 @@ Python, OpenAI API, Groq API (Llama), Gradio, SQLite, Jupyter
 
 ## Note
 
-These are graduate coursework projects. Assignments 3 and 5 began from a
-course-provided framework; the agent logic, prompts, and workflow design
+These are graduate coursework projects. Projects 2 and 4 — the Multi-LLM
+Planning Workflow and the Multi-Agent Customer Service System — began from
+a course-provided framework; the agent logic, prompts, and workflow design
 within them are my work.
